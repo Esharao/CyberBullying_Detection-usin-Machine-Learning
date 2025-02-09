@@ -1,6 +1,6 @@
 # CyberBullying Detection using Machine Learning
 
-This project is a web-based application built with Flask that detects cyberbullying in user-submitted text using a machine learning model. Here’s an overview of each part, which can help you structure your README on GitHub:
+This project is a web-based application built with Flask that detects cyberbullying in user-submitted text using a machine learning model.
 
 1. Application Structure
    Flask Application: The application is set up with Flask, a Python micro-framework, to create a web server and handle HTTP requests.
