@@ -31,3 +31,9 @@ A form allows users to input text.
 8. Potential Enhancements
    Error Handling: Add checks to handle empty input or server errors.
    Model Improvement: Experiment with other NLP techniques or models for improved accuracy.
+
+   ![image](https://github.com/user-attachments/assets/090b3e4d-f794-4747-9063-489f3db5170e)
+
+   ![image](https://github.com/user-attachments/assets/8c332f9f-bec1-4be9-9af1-f6e2aeb15e06)
+
+
